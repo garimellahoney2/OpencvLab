@@ -1,2 +1,2 @@
 # OpencvLab
-Contains all my lab programs and my material
+Contains all my lab programs
